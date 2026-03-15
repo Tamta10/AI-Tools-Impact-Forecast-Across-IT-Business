@@ -108,11 +108,17 @@ This project is created for educational and research purposes.
 
 ##
 data-analytics
+<b>
 python
+<b>
 sql
+<b>
 power-bi
+<b>
 ai-analysis
+<b>
 business-analytics
+<b>
 
 
 
