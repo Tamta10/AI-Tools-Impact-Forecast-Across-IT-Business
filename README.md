@@ -106,19 +106,21 @@ BCA Student | Aspiring Data Analyst
 This project is created for educational and research purposes.
 
 
-##
-data-analytics
-<b>
-python
-<b>
-sql
-<b>
-power-bi
-<b>
-ai-analysis
-<b>
-business-analytics
-<b>
+## Dataset [About dataset]
+
+The dataset used in this project contains company-level AI adoption data from 2020 to 2025 across multiple industries.
+
+Dataset Features:
+- Company
+- Industry
+- Year
+- AI Adoption Percentage
+- Revenue Growth
+- Employee Count
+
+Source:
+- Kaggle AI Impact Dataset
+Dataset Source: https://www.kaggle.com/datasets/...
 
 
 
