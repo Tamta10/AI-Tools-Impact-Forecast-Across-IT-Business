@@ -96,14 +96,6 @@ The Power BI dashboard presents:
 
 ---
 
-## Author
-Rishabh Tamta  
-BCA Student | Aspiring Data Analyst
-
----
-
-## License
-This project is created for educational and research purposes.
 
 
 ## Dataset [About dataset]
@@ -118,10 +110,20 @@ Dataset Features:
 - Revenue Growth
 - Employee Count
 
+---
+
 Source:
 - Kaggle AI Impact Dataset
-Dataset Source: https://www.kaggle.com/datasets/...
+- https://www.kaggle.com/datasets/mohanz123/global-ai-content-impact-dataset
 
+## Author
+Rishabh Tamta  
+BCA Student | Aspiring Data Analyst
+
+---
+
+## License
+This project is created for educational and research purposes.
 
 
 
