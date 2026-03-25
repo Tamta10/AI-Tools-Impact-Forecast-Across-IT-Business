@@ -45,25 +45,18 @@ Python Libraries:
 
 ## Project Structure
 
-AI-Tools-Impact-Forecast
-│
-├── Dataset
-│ └── ai_adoption_dataset.csv
+Project Structure
+AI-Tools-Impact-Forecast │ ├── Dataset │ └── ai_adoption_dataset.csv
 
-├── Excel_Data_Cleaning
-│ └── cleaned_dataset.xlsx
+├── Excel_Data_Cleaning │ └── cleaned_dataset.xlsx
 
-├── SQL_Queries
-│ └── ai_analysis_queries.sql
+├── SQL_Queries │ └── ai_analysis_queries.sql
 
-├── Python_Analysis
-│ └── ai_trend_analysis.ipynb
+├── Python_Analysis │ └── ai_trend_analysis.ipynb
 
-├── PowerBI_Dashboard
-│ └── ai_impact_dashboard.pbix
+├── PowerBI_Dashboard │ └── ai_impact_dashboard.pbix
 
-├── Documentation
-│ └── project_report.pdf
+├── Documentation │ └── project_report.pdf
 
 └── README.md
 
@@ -98,7 +91,7 @@ The Power BI dashboard presents:
 
 
 
-## Dataset [About dataset]
+## Dataset 
 
 The dataset used in this project contains company-level AI adoption data from 2020 to 2025 across multiple industries.
 
@@ -118,7 +111,7 @@ Source:
 
 ## Author
 Rishabh Tamta  
-BCA Student | Aspiring Data Analyst
+
 
 ---
 
